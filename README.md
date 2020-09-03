@@ -4,7 +4,7 @@ Play store page
 https://play.google.com/store/apps/details?id=com.macchi.memetube
 
 
-# Memetube
+## Memetube
 Feel tired of watching videos alone? MemeTume is a danmaku video streaming app, where you can share and create memes with other people, find videos and circles you like. We offer popular videos from youtube and play it with danmakus just like the style in BiliBili and NicoNico. Here, you can find not only your favourte videos, but also even more fun and friends.
 
 ## Change log
@@ -19,7 +19,7 @@ Feel tired of watching videos alone? MemeTume is a danmaku video streaming app, 
   
   
   
-# Screenshots
+## Screenshots
 
 | ![Image of Memetube](https://lh3.googleusercontent.com/6ue9oqHvcgCh7-BT90T2_0YYCQr85di73fubm-4V7wjLkkgiE2z_ATFzELRS4LFgTEc=w2560-h1329-rw)   | ![Image of Memetube](https://lh3.googleusercontent.com/z0rR-_Nh5xwpP8cDLlTAycjOzlzRpMZCPQxyg86SNweLtVV83V2Fo-E3CXwj_Ip-VKA=w2560-h1329-rw) |
 |:---:|:---:|
